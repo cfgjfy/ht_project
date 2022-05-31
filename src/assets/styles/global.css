@@ -1,0 +1,14 @@
+html,
+body,
+#app {
+  height: 100%;
+  min-width: 1366px;
+}
+
+.el-main {
+  background-color: rgb(234, 237, 241);
+}
+
+.el-step__title {
+  font-size: 13px !important;
+}

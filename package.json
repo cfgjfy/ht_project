@@ -1,0 +1,33 @@
+{
+  "name": "shop_ht",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "core-js": "^3.8.3",
+    "dayjs": "^1.11.1",
+    "element-ui": "^2.15.8",
+    "global": "^4.4.0",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "nprogress": "^0.2.0",
+    "serve": "^13.0.2",
+    "vue": "^2.6.14",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "3",
+    "vue-table-with-tree-grid": "^0.2.4",
+    "vuex": "3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-plugin-component": "^1.1.1",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
